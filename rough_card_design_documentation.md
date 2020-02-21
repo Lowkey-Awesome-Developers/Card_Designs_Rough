@@ -10,7 +10,7 @@ Although monopoly is a board game, with looking at the specification it was clea
         <div style = "width:205px;float:left">
         <h3>Street Card</h3>
         The image I got from google:<br>
-        <img src = "street-card-ps4.png" style = ""/><br>
+        <img src = "street-card-ps4.PNG" style = ""/><br>
         The image I've designed:<br>
         <img src = "street-card-design-v2.png" style = "width:174px;height:275px"/>
         </div>
