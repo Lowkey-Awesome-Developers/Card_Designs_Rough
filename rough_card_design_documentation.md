@@ -12,30 +12,30 @@ Although monopoly is a board game, with looking at the specification it was clea
         The image I got from google:<br>
         <img src = "street-card-ps4.PNG" style = ""/><br>
         The image I've designed:<br>
-        <img src = "street-card-design-v2.png" style = "width:174px;height:275px"/>
+        <img src = "street-card-design-v2.PNG" style = "width:174px;height:275px"/>
         </div>
         <div style = "width:205px;float:right">
         <h3>Station Card</h3>
         The image I got from google:<br>
-        <img src = "station-card-ps4.png" style = "height:275px"/><br>
+        <img src = "station-card-ps4.PNG" style = "height:275px"/><br>
         The image I've designed:<br>
-        <img src = "station-card-design.png" style = "width:174px;height:275px"/>
+        <img src = "station-card-design.PNG" style = "width:174px;height:275px"/>
         </div>
     </div>
     <div style = "width:210px;float:right">
         <h3>Utility Card</h3>
         The image I got from google:<br>
-        <img src = "utility-card-ps4.png" style = "height:275px"/><br>
+        <img src = "utility-card-ps4.PNG" style = "height:275px"/><br>
         The image I've designed:<br>
-        <img src = "utility-card-design.png" style = "width:174px;height:275px"/>
+        <img src = "utility-card-design.PNG" style = "width:174px;height:275px"/>
     </div>
 </div>
 <div>
     <h3>Pot Luck / Opportunity Knocks</h3>
     The image I got from google:<br>
-    <img src = "potluck-opportunityknocks-ps4.png" style = "width:420px;height:250px"/><br>
+    <img src = "potluck-opportunityknocks-ps4.PNG" style = "width:420px;height:250px"/><br>
     The image I've designed:<br>
-    <img src = "potluck-opportunityknocks-design.png" style = "width:420px;height:250px"/>
+    <img src = "potluck-opportunityknocks-design.PNG" style = "width:420px;height:250px"/>
 </div>
 
 <h2>Design Choices</h2>
