@@ -35,7 +35,7 @@ Although monopoly is a board game, with looking at the specification it was clea
     The image I got from google:<br>
     <img src = "potluck-opportunityknocks-ps4.PNG" width = "420" height = "250"/><br>
     The image I've designed:<br>
-    <img src = "potluck-opportunityknocks-design.PNG" style = "width:420px;height:250px"/>
+    <img src = "potluck-opportunityknocks-design.PNG" width = "420" height = "250"/>
 </div>
 
 <h2>Design Choices</h2>
