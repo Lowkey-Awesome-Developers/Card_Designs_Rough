@@ -10,30 +10,30 @@ Although monopoly is a board game, with looking at the specification it was clea
         <div style = "width:205px;float:left">
         <h3>Street Card</h3>
         The image I got from google:<br>
-        <img src = "street-card-ps4.PNG" style = ""/><br>
+        <img src = "street-card-ps4.PNG"/><br>
         The image I've designed:<br>
-        <img src = "street-card-design-v2.PNG" style = "width:174px;height:275px"/>
+        <img src = "street-card-design-v2.PNG" width = "174" height = "275"/>
         </div>
         <div style = "width:205px;float:right">
         <h3>Station Card</h3>
         The image I got from google:<br>
-        <img src = "station-card-ps4.PNG" style = "height:275px"/><br>
+        <img src = "station-card-ps4.PNG" height = "275"/><br>
         The image I've designed:<br>
-        <img src = "station-card-design.PNG" style = "width:174px;height:275px"/>
+        <img src = "station-card-design.PNG" width = "174" height = "275"/>
         </div>
     </div>
     <div style = "width:210px;float:right">
         <h3>Utility Card</h3>
         The image I got from google:<br>
-        <img src = "utility-card-ps4.PNG" style = "height:275px"/><br>
+        <img src = "utility-card-ps4.PNG" height = "275"/><br>
         The image I've designed:<br>
-        <img src = "utility-card-design.PNG" style = "width:174px;height:275px"/>
+        <img src = "utility-card-design.PNG" width = "174" height = "275"/>
     </div>
 </div>
 <div>
     <h3>Pot Luck / Opportunity Knocks</h3>
     The image I got from google:<br>
-    <img src = "potluck-opportunityknocks-ps4.PNG" style = "width:420px;height:250px"/><br>
+    <img src = "potluck-opportunityknocks-ps4.PNG" width = "420" height = "250"/><br>
     The image I've designed:<br>
     <img src = "potluck-opportunityknocks-design.PNG" style = "width:420px;height:250px"/>
 </div>
